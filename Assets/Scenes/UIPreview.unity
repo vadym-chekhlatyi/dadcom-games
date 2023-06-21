@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 136827078}
   - component: {fileID: 136827077}
   m_Layer: 5
-  m_Name: UnlockBootsButton (1)
+  m_Name: HomeButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
